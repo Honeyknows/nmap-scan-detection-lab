@@ -78,33 +78,10 @@ nmap-scan-detection-lab/
 │
 ├── nmap_guide.pdf              # Full lab guide with commands, outputs, and analysis
 │
-├── pcaps/                      # Wireshark capture files, one per scan type
-│   ├── 01_ping_sweep.pcap
-│   ├── 02_syn_scan.pcap
-│   ├── 03_null_scan.pcap
-│   ├── 04_fin_scan.pcap
-│   ├── 05_udp_scan.pcap
-│   ├── 06_arp_discovery.pcap
-│   ├── 07_version_detection.pcap
-│   ├── 08_os_detection.pcap
-│   ├── 09_aggressive_scan.pcap
-│   ├── 10_fragmentation.pcap
-│   ├── 11_decoy_scan.pcap
-│   ├── 12_t5_insane.pcap
-│   ├── 13_t1_sneaky.pcap
-│   ├── 14_rate_limited.pcap
-│   ├── 15_default_scripts.pcap
-│   ├── 16_banner_grab.pcap
-│   ├── 17_http_title.pcap
-│   ├── 18_smb_enum.pcap
-│   ├── 19_vuln_scan.pcap
-│   └── 20_combined_evasion.pcap
+├── pcaps/                      # Wireshark capture files, one per scan types
 │
 └── screenshots/                # Wireshark and terminal screenshots per scan
-    ├── 01_ping_sweep/
-    ├── 02_syn_scan/
-    ├── ...
-    └── 20_combined_evasion/
+    
 ```
 
 ---
@@ -133,4 +110,4 @@ nmap-scan-detection-lab/
 
 **Honey**  
 Final-year CSE student | Cybersecurity enthusiast | Targeting SOC Analyst roles  
-[GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/)
+[GitHub](https://github.com/Honeyknows) · [LinkedIn](https://linkedin.com/in/honeyknows)
